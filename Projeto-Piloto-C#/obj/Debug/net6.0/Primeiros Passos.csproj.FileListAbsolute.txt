@@ -1,0 +1,5 @@
+C:\Users\hcont\OneDrive\Documentos\HelloWorld\HelloWorld\obj\Debug\net6.0\Primeiros Passos.csproj.AssemblyReference.cache
+C:\Users\hcont\OneDrive\Documentos\HelloWorld\HelloWorld\obj\Debug\net6.0\Primeiros Passos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcont\OneDrive\Documentos\HelloWorld\HelloWorld\obj\Debug\net6.0\Primeiros Passos.AssemblyInfoInputs.cache
+C:\Users\hcont\OneDrive\Documentos\HelloWorld\HelloWorld\obj\Debug\net6.0\Primeiros Passos.AssemblyInfo.cs
+C:\Users\hcont\OneDrive\Documentos\HelloWorld\HelloWorld\obj\Debug\net6.0\Primeiros Passos.csproj.CoreCompileInputs.cache
