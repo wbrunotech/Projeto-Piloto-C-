@@ -1,10 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-
 #region Codigo
 using BancoLL;
 using System.Net.Http.Json;
 
-//Dica
 List<Cliente> Clientes = new List<Cliente>();
 ConsultarCliente();
 
